@@ -1,0 +1,4 @@
+Input numbers generated and saved in 'input.txt'. Time taken: 0.003000 seconds.
+Numbers sorted and saved in 'sorted.txt'. Time taken: 0.003000 seconds.
+Elements pushed onto the stack and saved in 'updated.txt'. Time taken: 0.003000 seconds.
+Elements popped from the stack and saved in 'poped.txt'. Time taken: 0.003000 seconds.
